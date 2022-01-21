@@ -1,0 +1,16 @@
+{
+  "campuses": [
+    {"campusID": 1, "campusName": "Brooklyn College", "campusImg": "http://www.brooklyn.cuny.edu/web/new_2019news/190813_campusshot_960x640.jpg", "enrolled": 3},
+    {"campusID": 2, "campusName": "Hunter College", "campusImg": "http://www.hunter.cuny.edu/facilities/repository/images/hunter-buildings/HU_West%20Building%20-%20Lex_%20Ave%20Bridge_1_jpg.jpg/", "enrolled": 1},
+    {"campusID": 3, "campusName": "City College", "campusImg": "https://world.uz/files/243_820728hf.jpg", "enrolled": 0},
+  ],
+  "students": [
+    {"studentId": 100, "campusID": 1, "name": "John Doe", "studentImg": "https://images.generated.photos/C6pSwKOkUqszoukgKFygNR191eEg05wcpSlmVj7AVs0/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NTE3NTUyLmpwZw.jpg", "gpa": 3.5},
+    {"studentId": 101, "campusID": 1, "name": "Jane Doe", "studentImg": "https://images.generated.photos/l8oSr4dtje-5nOuLtTpOXGs6RE9VyfH5AJitzjEyr5M/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjU2ODc4LmpwZw.jpg", "gpa": 3.8},
+    {"studentId": 102, "campusID": 1, "name": "Anne Frank", "studentImg": "https://images.generated.photos/FlsuPkO-VdhhhZKnVcUCuqR925AA4iT17sO06lbNl10/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NzI3ODM3LmpwZw.jpg", "gpa": 3.1},
+    {"studentId": 200, "campusID": 2, "name": "Mike Smith", "studentImg": "https://images.generated.photos/HkZgUpkseEFYmxA6z6_pUfRtLG2N_cGPttKTyzCBjZ4/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MzM0MjY5LmpwZw.jpg", "gpa": 2.9},
+  ]
+}
+  
+  
+  
